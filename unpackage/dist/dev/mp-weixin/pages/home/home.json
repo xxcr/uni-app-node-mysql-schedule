@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "云南大学",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card"
+  }
+}

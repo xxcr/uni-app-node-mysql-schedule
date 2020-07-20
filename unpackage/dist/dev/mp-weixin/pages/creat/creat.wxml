@@ -1,0 +1,1 @@
+<view><gpp-configuration-form class="vue-ref" vue-id="04efe22c-1" type="fill" formTemplate="{{formTemplate}}" formValue="{{formValue}}" isCard="{{true}}" time="{{time}}" data-ref="form" bind:__l="__l"></gpp-configuration-form><button data-event-opts="{{[['tap',[['save',['$event']]]]]}}" class="button" bindtap="__e">保 存</button></view>

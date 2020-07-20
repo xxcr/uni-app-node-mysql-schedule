@@ -1,0 +1,117 @@
+{
+	"pages": [
+	{
+	    "path" : "pages/login/login",
+	    "style" : {
+	        "navigationBarTitleText" : "登陆"
+	    }
+	},
+	{
+	    "path" : "pages/registration/registration",
+	    "style" : {
+	        "navigationBarTitleText" : "注册"
+	    }
+	},
+	{
+	    "path" : "pages/forget-password/forget-password",
+	    "style" : {
+	        "navigationBarTitleText" : "重置密码"
+	    }
+	},
+	{
+		"path": "pages/home/home",
+		"style": {
+			"navigationBarTitleText": "云南大学",
+			"enablePullDownRefresh":true,
+			"navigationStyle":"custom"
+		}
+	},
+	{
+		"path": "pages/schedule/schedule",
+		"style": {
+			"navigationBarTitleText": "日程",
+			"navigationStyle":"custom"
+		}
+	},
+	{
+		"path": "pages/notice/notice",
+		"style": {
+			"navigationBarTitleText": "通知"
+		}
+	},
+	{
+		"path": "pages/mine/mine",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	},{
+		"path" : "pages/creat/creat",
+		"style" : {
+			"navigationBarTitleText": "添加日程"
+		}
+	},{
+		"path" : "pages/realname/realname",
+		"style" : {
+			"navigationBarTitleText": "实名认证"
+		}
+	}    ,{
+            "path" : "pages/statistics/statistics",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/addGroup/addGroup",
+            "style" : {"navigationBarTitleText": "创建群"}
+        }
+        ,{
+            "path" : "pages/ownerGroup/ownerGroup",
+            "style" : {"navigationBarTitleText": "我管理的群"}
+        }
+        ,{
+            "path" : "pages/joinGroup/joinGroup",
+            "style" : {"navigationBarTitleText": "加入群"}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#00f0f0",
+		"backgroundColor": "#00f0f0"
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	},
+	"tabBar": {
+	    "color": "#FFFFFF",
+	    "selectedColor": "#407dff",
+	    "borderStyle": "#00f0f0",
+	    "backgroundColor": "#00f0f0",
+	    "list": [{
+	        "pagePath": "pages/home/home",
+	        "iconPath": "static/image/home.png",
+	        "selectedIconPath": "static/image/home_active.png",
+	        "text": "首页"
+	    }, {
+	        "pagePath": "pages/schedule/schedule",
+	        "iconPath": "static/image/schedule.png",
+	        "selectedIconPath": "static/image/schedule_active.png",
+	        "text": "日程"
+	    }, {
+	        "pagePath": "pages/notice/notice",
+	        "iconPath": "static/image/notice.png",
+	        "selectedIconPath": "static/image/notice_active.png",
+	        "text": "通知"
+	    }, {
+	        "pagePath": "pages/mine/mine",
+	        "iconPath": "static/image/mine.png",
+	        "selectedIconPath": "static/image/mine_active.png",
+	        "text": "我的"
+	    }]
+	}
+}

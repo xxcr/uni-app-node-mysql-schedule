@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "usingComponents": {
+    "gpp-configuration-form": "/components/gpp-configurationForm/gpp-configurationForm",
+    "cys-toast": "/components/showToast/showToast"
+  }
+}

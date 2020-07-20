@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "日程",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "hx-navbar": "/components/hx-navbar/hx-navbar",
+    "ms-dropdown-menu": "/components/ms-dropdown/dropdown-menu",
+    "ms-dropdown-item": "/components/ms-dropdown/dropdown-item",
+    "day-table": "/components/dayTable/dayTable"
+  }
+}

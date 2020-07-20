@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/registration/registration",
+    "pages/forget-password/forget-password",
+    "pages/home/home",
+    "pages/schedule/schedule",
+    "pages/notice/notice",
+    "pages/mine/mine",
+    "pages/creat/creat",
+    "pages/realname/realname",
+    "pages/statistics/statistics",
+    "pages/addGroup/addGroup",
+    "pages/ownerGroup/ownerGroup",
+    "pages/joinGroup/joinGroup"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#00f0f0",
+    "backgroundColor": "#00f0f0"
+  },
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#407dff",
+    "borderStyle": "#00f0f0",
+    "backgroundColor": "#00f0f0",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/image/home.png",
+        "selectedIconPath": "static/image/home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/schedule/schedule",
+        "iconPath": "static/image/schedule.png",
+        "selectedIconPath": "static/image/schedule_active.png",
+        "text": "日程"
+      },
+      {
+        "pagePath": "pages/notice/notice",
+        "iconPath": "static/image/notice.png",
+        "selectedIconPath": "static/image/notice_active.png",
+        "text": "通知"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/image/mine.png",
+        "selectedIconPath": "static/image/mine_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "hx-navbar": "/components/hx-navbar/hx-navbar"
+  }
+}

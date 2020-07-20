@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "lx-calendar": "/components/lx-calendar/lx-calendar"
+  }
+}

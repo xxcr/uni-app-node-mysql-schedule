@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添加日程",
+  "usingComponents": {
+    "gpp-configuration-form": "/components/gpp-configurationForm/gpp-configurationForm"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "histogram-chart": "/components/stan-ucharts/HistogramChart",
+    "gpp-configuration-form": "/components/gpp-configurationForm/gpp-configurationForm"
+  }
+}

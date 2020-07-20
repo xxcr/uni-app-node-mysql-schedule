@@ -1,0 +1,10 @@
+
+.button{
+	margin: 14px 10px 10px 10px;
+	background-color: #6BA1FF;
+	color: #FFFFFF;
+}
+.button_quxiao{
+	background-color: #DD524D;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我管理的群",
+  "usingComponents": {
+    "hm-sms-list-card": "/components/hm-sms-list-card/index"
+  }
+}

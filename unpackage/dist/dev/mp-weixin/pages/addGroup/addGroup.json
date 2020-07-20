@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "创建群",
+  "usingComponents": {
+    "avatar": "/components/yq-avatar/yq-avatar"
+  }
+}

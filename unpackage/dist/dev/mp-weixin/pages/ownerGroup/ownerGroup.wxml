@@ -1,0 +1,1 @@
+<view><block wx:for="{{group}}" wx:for-item="item" wx:for-index="i" wx:key="id"><view class="test-component _div"><hm-sms-list-card vue-id="{{'14c43a00-1-'+i}}" options="{{item}}" bind:__l="__l"></hm-sms-list-card></view></block><view class="test-component _div"><hm-sms-list-card vue-id="14c43a00-2" options="{{options}}" bind:__l="__l"></hm-sms-list-card></view></view>
