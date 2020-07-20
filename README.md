@@ -14,5 +14,27 @@
 ```
 
 # 部分页面展示
-## 注册登陆页面
-![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/03.png)
+## 1.注册登陆页面
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/1.png)
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/02.png)
+
+## 2.实名认证和重置密码
+## 3.首页
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/05.png)
+
+## 4.日程页面
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/06.png)
+
+## 5.消息通知页面
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/07.png)
+
+## 6.我的页面
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/08.png)
+
+## 7.查看和新增日程
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/09.png)
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/10.png)
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/12.png)
+
+## 8.群课程统计
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/11.png)
