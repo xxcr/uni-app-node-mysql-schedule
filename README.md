@@ -12,3 +12,7 @@
      使用vuex进行状态管理以及实现组件间传值；使用token作为前端请求数据的令牌，同时使用h5的localStorage来存储token。
     后端主要使用nodeJs的express框架实现的。数据库使用MySQL数据库。
 ```
+
+# 部分页面展示
+## 注册登陆页面
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/03.png)
