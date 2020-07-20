@@ -15,7 +15,7 @@
 
 # 部分页面展示
 ## 1.注册登陆页面
-![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/1.png)
+![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/1.jpg)
 ![Image text](https://raw.githubusercontent.com/xxcr/uni-app-node-mysql-schedule/master/img-folder/02.png)
 
 ## 2.实名认证和重置密码
